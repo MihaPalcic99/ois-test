@@ -1,0 +1,13 @@
+.main_title{
+    text-align:center;
+    color:orange;
+    text-shadow: black;
+    font-style: italic;
+    font-family: "Comic Sans MS";
+}
+#id1{
+    text-align:center;
+    border:2px black dashed;
+    color:white;
+    background-color: darkgrey;
+}
